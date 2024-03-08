@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**HoshikawaShiori/HoshikawaShiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZicy7n4BfDDdS_00qwc4K4GFC8JIKxy5i7g&usqp=CAU )
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Jomari 👋
+
+
+## 🚀 About Me
+I'm an aspiring full stack developer from Technological Institute of The Philippines.
+
+
+## 🛠 Skills
+Django, Laravel, React, C#, Java
+
